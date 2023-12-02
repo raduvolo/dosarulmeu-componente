@@ -1,0 +1,8 @@
+{
+  "name": "Dosarulmeu-componente",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "53a449c9"
+}
